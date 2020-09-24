@@ -1,0 +1,13 @@
+[
+    {
+        "id" : 1,
+        "name" : "Manish Pathak",
+        "address" : "Buxar"
+    },
+
+    {
+        "id" : 2,
+        "name" : "Jai",
+        "address" : "Chennai"
+    }
+]

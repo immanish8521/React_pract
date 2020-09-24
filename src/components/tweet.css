@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.tweet{
+    width: 300px;
+    height: 300px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    margin-top: 20vh;
+    border-radius: 20%;
+    padding: 40px;
+}
