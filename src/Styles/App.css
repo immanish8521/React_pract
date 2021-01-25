@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App{
+    height: 38em;
+    width: 22em;
+    margin: 0;
+    background: rgb(165, 165, 54);
+    color: rgb(243, 243, 243);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+.text-part{
+    margin: 9rem;
+    
+}
